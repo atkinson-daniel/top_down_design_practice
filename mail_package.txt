@@ -1,0 +1,12 @@
+Mail a package
+
+1. Collect item that needs to be shipped
+2. Purchase package
+3. Place item in package
+  3.1 Place peanuts and other protective material in package
+4. Prepare package
+  4.1 Seal package
+  4.2 Write return to address
+  4.3 Write mailing address
+  4.4 Add stamp
+5. Deliver package to UPS
