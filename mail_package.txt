@@ -2,11 +2,18 @@ Mail a package
 
 1. Collect item that needs to be shipped
 2. Purchase package
-3. Place item in package
-  3.1 Place peanuts and other protective material in package
-4. Prepare package
-  4.1 Seal package
-  4.2 Write return to address
-  4.3 Write mailing address
-  4.4 Add stamp
+  2.1 Choose between different types of packages and sizes
+3. Assemble package
+  3.1 Tape sides of boxes
+4. Place item in package
+  4.1 Place peanuts and other protective material in package
+5. Prepare package
+  5.1 Tape the top of the box
+  5.2 Write return to address
+  5.3 Write mailing address
+  5.4 Add stamp
 5. Deliver package to UPS
+  5.1 Place package in car
+  5.2 Drive to USPS
+  5.3 Drop package off at USPS
+  5.4 Pay for shipping charges
